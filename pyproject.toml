@@ -9,12 +9,12 @@ build-backend = "setuptools.build_meta"
 requires = ["setuptools>=80", "wheel"]
 
 [project]
-authors = [{name = "Denise Case"}] # TODO: Change to YOUR name (ownership matters)
+authors = [{name = "James Pinkston"}]
 classifiers = [
   "Programming Language :: Python :: 3 :: Only",
   "Programming Language :: Python :: 3.12",
 ]
-description = "Professional Python starter project using uv and a src layout"
+description = "Midterm Project: Classification Analysis"
 license = "MIT"
 name = "analytics-project" # PACKAGE name (matches src folder except with dashes)
 readme = "README.md"
@@ -22,19 +22,22 @@ requires-python = ">=3.12"
 version = "0.0.1"
 
 dependencies = [ # fmt: off
-  "loguru",      # Better than print() - practice production logging with levels
-  "matplotlib",  # Industry standard plotting
-  "pandas",      # THE data manipulation tool in analytics
-  "seaborn",     # Statistical charts built on matplotlib
-  "ipython",     # Enhanced Python shell (needed for notebooks)
-  "ipykernel",   # Jupyter kernel for notebooks
+  "loguru", # Better than print() - practice production logging with levels
+  "matplotlib", # Industry standard plotting
+  "numpy", # Fast math for arrays and matrices (foundation of scientific computing)
+  "pandas", # THE data manipulation tool in analytics
+  "seaborn", # Statistical charts built on matplotlib
+  "ipython", # Enhanced Python shell (needed for notebooks)
+  "ipykernel", # Jupyter kernel for notebooks
+  "scikit-learn", # Essential machine learning library (models, preprocessing, metrics)
+  "pre-commit>=4.3.0",
 ]  # fmt: on
 
 [project.urls]
-"Bug Tracker" = "https://github.com/denisecase/pro-analytics-02-starter/issues"
-Documentation = "https://denisecase.github.io/pro-analytics-02-starter/"
-Homepage = "https://github.com/denisecase/pro-analytics-02-starter"
-Repository = "https://github.com/denisecase/pro-analytics-02-starter"
+"Bug Tracker" = "https://github.com/james-0177/ml_classification_pinkston/issues"
+Documentation = "https://james-0177.github.io/ml_classification_pinkston/"
+Homepage = "https://github.com/james-0177/ml_classification_pinkston"
+Repository = "https://github.com/james-0177/ml_classification_pinkston"
 
 [project.optional-dependencies]
 dev = [

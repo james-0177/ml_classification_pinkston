@@ -6,11 +6,11 @@
 # TODO: Update site_description
 # TODO: Update site_author
 
-site_name: Professional Analytics Project
-site_url: https://denisecase.github.io/pro-analytics-02-starter/
-repo_url: https://github.com/denisecase/pro-analytics-02-starter
-site_description: Professional Python project demonstrating industry best practices
-site_author: Denise Case
+site_name: Midterm Project: Classification Analysis
+site_url: https://james-0177.github.io/ml_classification_pinkston/
+repo_url: https://github.com/james-0177/ml_classification_pinkston
+site_description: Professional Python project demonstrating the application of classification modeling to a real-world dataset.
+site_author: James Pinkston
 docs_dir: docs
 site_dir: site
 
@@ -64,4 +64,4 @@ markdown_extensions:
 
 nav:
   - Home: index.md
-  - API: api.md
+  - Overview: README.md

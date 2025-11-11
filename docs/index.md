@@ -1,7 +1,9 @@
-# Analytics Project Documentation
+# Applied Machine Learning - Midterm Project Documentation
 
-Welcome! This site provides automatically generated reference documenation for your project.
+Author: James Pinkston
 
-Document your code as you work.
+This repository contains my Classification Analysis Midterm Project for Applied Machine Learning. The project file is named classification_pinkston.ipynb.
 
-Those comments will appear here and provide useful, professional documentation for your analytics project.
+Link to Project File:
+
+Link to Project README:
