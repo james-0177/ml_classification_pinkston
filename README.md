@@ -1,6 +1,6 @@
 # Midterm Project: Classification Analysis
 
-**Author:**  James Pinkston
+**Author:**  James Pinkston<br>
 **Date:**  November 11, 2025
 
 [Project File](https://github.com/james-0177/ml_classification_pinkston/blob/main/notebooks/classification_pinkston.ipynb)
