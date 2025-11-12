@@ -5,6 +5,8 @@
 
 [Project File](https://github.com/james-0177/ml_classification_pinkston/blob/main/notebooks/classification_pinkston.ipynb)
 
+[Documentation](https://james-0177.github.io/ml_classification_pinkston/)
+
 [Peer Review](https://github.com/james-0177/ml_classification_pinkston/blob/main/peer_review.md)
 
 ## Overview
